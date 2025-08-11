@@ -30,7 +30,7 @@ body {
 
 @font-face {
     font-family: 'daydream';
-    src: url(../font/daydream\ FREE.ttf);
+    src: url(../font/daydream.ttf);
 }
 
 @font-face {
@@ -1014,3 +1014,4 @@ footer{
     }
 
 }
+
