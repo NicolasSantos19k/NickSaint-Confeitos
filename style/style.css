@@ -30,12 +30,12 @@ body {
 
 @font-face {
     font-family: 'daydream';
-    src: url(/font/daydream\ FREE.ttf);
+    src: url(../font/daydream\ FREE.ttf);
 }
 
 @font-face {
     font-family: 'futura';
-    src: url(/font/futura\ light\ bt.ttf);
+    src: url(../font/futura\ light\ bt.ttf);
 }
 
 header {
@@ -1012,4 +1012,5 @@ footer{
     .cards-2-mes{
         font-size: 10px;
     }
+
 }
