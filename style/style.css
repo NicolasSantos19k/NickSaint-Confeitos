@@ -35,7 +35,7 @@ body {
 
 @font-face {
     font-family: 'futura';
-    src: url(../font/futura\ light\ bt.ttf);
+    src: url(../font/futura.ttf);
 }
 
 header {
@@ -1014,4 +1014,5 @@ footer{
     }
 
 }
+
 
